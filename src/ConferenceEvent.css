@@ -258,11 +258,17 @@
     width: 100vw;
   }
   
-  .company_logo {
+  .company_logo a{
     font-size: 30px;
-    color: #EFC16B;
     font-weight: 700;
+    color: #EFC16B;
+    text-decoration: none;
+    cursor: pointer;
   }
+  .company_logo a:hover{
+    color: #EFC16B;
+  }
+
   .nav_links{
     display: flex;
     gap: 170px;
