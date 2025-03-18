@@ -155,7 +155,7 @@ const mealsTotalCost = calculateTotalCost("meals");
         <>
             <navbar className="navbar_event_conference">
     
-                <div className="company_logo"> <a href=".aboutus_container">Conference Expense Planner</a></div>
+                <div className="company_logo"> <a href=".about">Conference Expense Planner</a></div>
                 <div className="left_navbar">
                     <div className="nav_links">
                         <a href="#venue" onClick={() => navigateToProducts("#venue")} >Venue</a>
