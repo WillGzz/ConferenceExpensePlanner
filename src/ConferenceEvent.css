@@ -258,16 +258,14 @@
     width: 100vw;
   }
   
-  .company_logo a{
+  .company_logo{
     font-size: 30px;
     font-weight: 700;
     color: #EFC16B;
-    text-decoration: none;
-    cursor: pointer;
+  
+  
   }
-  .company_logo a:hover{
-    color: #EFC16B;
-  }
+
 
   .nav_links{
     display: flex;
